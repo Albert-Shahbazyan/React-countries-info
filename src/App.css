@@ -72,3 +72,17 @@ button:hover{
   color: #2a6f97;
   letter-spacing: 2px;
 }
+
+
+
+/* responsive */
+
+@media(max-width:767px){
+  .search{
+    width: 500px;
+
+  }
+  .countryDisplay{
+    padding: 20px;
+  }
+}
